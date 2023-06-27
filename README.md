@@ -21,4 +21,4 @@ The notebooks can also be viewed online
 * [Testing](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1.2_test.ipynb)
 
 
-If you have any questions, please do not hesitate to write me!
+If you have any questions, please do not hesitate to contact me!
