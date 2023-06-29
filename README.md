@@ -15,10 +15,13 @@ Clone the repository to your computer with
 
 In the directory `spp1992_summerschool23.git/notebooks` you will find the notebook `1.1_installation.ipynb` containing installation instructions and the notebook `1.2_test.ipynb` to test your successful installation.
 
-The notebooks can also be viewed online
+The preparation notebooks can also be viewed online
 
 * [Installation](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1.1_installation.ipynb)
 * [Testing](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1.2_test.ipynb)
 
+The workshop will consist of short tutorials of the mentioned codes and then plenty of time to work on scientific problems. The tutorial notebooks can be viewed here
+
+* [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_simframe.ipynb)
 
 If you have any questions, please do not hesitate to contact me!
