@@ -25,3 +25,5 @@ The workshop will consist of short tutorials of the mentioned codes and then ple
 * [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_simframe.ipynb)
 
 If you have any questions, please do not hesitate to contact me!
+
+_Note: The repository will be continuously updated with more material until the summer school. You are of course free to check it out in advance. But this will not be required to be able to follow the workshop as long as the installation and testing have worked successfully._
