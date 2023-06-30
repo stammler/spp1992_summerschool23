@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Clone RADMC-3D
+git clone https://github.com/dullemond/radmc3d-2.0.git
+
+# Install RADMC-3D
+cd $HOME/radmc3d-2.0/src
+make
+
+# Add executable to PATH
+expot PATH="$PATH:$HOME/radmc3d-2.0/src"
+
+# Install RADMC-3D Pathon module
+cd $HOME/radmc3d-2.0/python/radmc3dPy
+pip install .
