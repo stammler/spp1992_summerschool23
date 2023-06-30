@@ -4,14 +4,14 @@
 RADMCDIR=radmc3d
 
 # Clone RADMC-3D
-git clone https://github.com/dullemond/radmc3d-2.0.git $RADMCDIR
+git clone https://github.com/dullemond/radmc3d-2.0.git $HOME/$RADMCDIR
 
 # Install RADMC-3D
 cd $HOME/$RADMCDIR/src
 make
 
 # Add directory with executable to PATH in .bashrc
-echo "export PATH='$PATH:$RADMCDIR/src'" >> $HOME/.bashrc
+echo "export PATH='$PATH:$HOME/$RADMCDIR/src'" >> $HOME/.bashrc
 
 # Install RADMC-3D Python module
 cd $HOME/$RADMCDIR/python/radmc3dPy
