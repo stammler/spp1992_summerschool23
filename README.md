@@ -1,4 +1,5 @@
 # Dust Evolution Workshop
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stammler/spp1992_summerschool23/HEAD)
 ## SPP 1992 Summer School 2023
 
 This repository contains material used for the Dust Evolution Workshop during the [SPP 1992 Summer School 2023](https://www-astro.physik.tu-berlin.de/exoplanet-diversity/spp-1992-summer-school-2023/).
