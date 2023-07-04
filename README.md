@@ -15,16 +15,17 @@ Clone the repository to your computer with
 
 `git clone git@github.com:stammler/spp1992_summerschool23.git`
 
-In the directory `spp1992_summerschool23.git/notebooks` you will find the notebook `1.1_installation.ipynb` containing installation instructions and the notebook `1.2_test.ipynb` to test your successful installation.
+In the directory `spp1992_summerschool23.git/notebooks/1_preparations` you will find the notebook `1.1_installation.ipynb` containing installation instructions and the notebook `1.2_test.ipynb` to test your successful installation.
 
 The preparation notebooks can also be viewed online
 
-* [Installation](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1.1_installation.ipynb)
-* [Testing](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1.2_test.ipynb)
+* [Installation](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1_preparations/1.1_installation.ipynb)
+* [Testing](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1_preparations/1.2_test.ipynb)
 
 The workshop will consist of short tutorials of the mentioned codes and then plenty of time to work on scientific problems. The tutorial notebooks can be viewed here (to be updated)
 
-* [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_simframe.ipynb)
+* [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorial/2.1_simframe.ipynb)
+* [DustPy – Basics](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorial/2.2_dustpy_basics.ipynb)
 
 If you have any questions, please do not hesitate to contact me!
 
