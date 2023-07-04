@@ -1,18 +1,31 @@
 #!/bin/bash
 
-# Location of RADMC-3D
-RADMCDIR=$HOME/radmc3d
+# Locations of additional software
+PROGDIR=$HOME/software
 
+# RADMC-3D
+# Location of RADMC-3D
+RADMCDIR=$PROGDIR/radmc3d
 # Clone RADMC-3D
 git clone https://github.com/dullemond/radmc3d-2.0.git $RADMCDIR
-
 # Install RADMC-3D
 cd $RADMCDIR/src
 make
-
 # Add directory with executable to PATH in .bashrc
 echo "export PATH='$PATH:$RADMCDIR/src'" >> $HOME/.bashrc
-
 # Install RADMC-3D Python module
 cd $RADMCDIR/python/radmc3dPy
-pip install .
+pip install -e .
+
+# OpTool
+# Location of OpTool
+OPTDIR=$PROGDIR/optool
+# Clone OpTool
+git clone https://github.com/cdominik/optool.git $OPTDIR
+# Install OpTool
+cd $OPTDIR
+make multi=True
+# Add directory with executable to PATH in .bashrc
+echo "export PATH='$PATH:$OPTDIR/src'" >> $HOME/.bashrc
+# Install OpTool Python module
+pip install -e .
