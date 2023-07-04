@@ -26,6 +26,6 @@ git clone https://github.com/cdominik/optool.git $OPTDIR
 cd $OPTDIR
 make multi=true
 # Add directory with executable to PATH in .bashrc
-echo "export PATH='$PATH:$OPTDIR/src'" >> $HOME/.bashrc
+echo "export PATH='$PATH:$OPTDIR'" >> $HOME/.bashrc
 # Install OpTool Python module
 pip install -e .
