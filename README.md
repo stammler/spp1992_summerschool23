@@ -26,6 +26,7 @@ The workshop will consist of short tutorials of the mentioned codes and then ple
 
 * [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorial/2.1_simframe.ipynb)
 * [DustPy – Basics](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorial/2.2_dustpy_basics.ipynb)
+* [DustPy – Advanced](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorial/2.3_dustpy_advanced.ipynb)
 
 If you have any questions, please do not hesitate to contact me!
 
