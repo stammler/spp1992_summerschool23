@@ -24,8 +24,8 @@ The preparation notebooks can also be viewed online
 
 The workshop will consist of short tutorials of the mentioned codes and then plenty of time to work on scientific problems. The tutorial notebooks can be viewed here (to be updated)
 
-* [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.1_ssimframe.ipynb)
-* [DustPy – Basics](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorial/2.2_dustpy_basics.ipynb)
+* [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.1_simframe.ipynb)
+* [DustPy – Basics](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.2_dustpy_basics.ipynb)
 * [DustPy – Advanced](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.3_dustpy_advanced.ipynb)
 * [DustPyLib](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.4_dustpylib.ipynb)
 
