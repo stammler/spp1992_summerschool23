@@ -22,13 +22,29 @@ The preparation notebooks can also be viewed online
 * [Installation](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1_preparations/1.1_installation.ipynb)
 * [Testing](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/1_preparations/1.2_test.ipynb)
 
-The workshop will consist of short tutorials of the mentioned codes and then plenty of time to work on scientific problems. The tutorial notebooks can be viewed here (to be updated)
+The workshop will consist of short tutorials of the mentioned codes and then plenty of time to work on scientific projects. The tutorial notebooks can be viewed here:
 
 * [Simframe](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.1_simframe.ipynb)
 * [DustPy – Basics](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.2_dustpy_basics.ipynb)
 * [DustPy – Advanced](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.3_dustpy_advanced.ipynb)
 * [DustPyLib](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.4_dustpylib.ipynb)
 
+The project notebook can be viewed here:
+
+1. [Spectral Index](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.1_spectral_index.ipynb)
+2. [FU Orionis Outbursts](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.2_fu_orionis.ipynb)
+3. [Dust Ring Width](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.3_ring_width.ipynb)
+4. [Stellar Irradiation](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.4_irradiation.ipynb)
+5. [Planetesimal Formation](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.5_planetesimal_formation.ipynb)
+6. [Infall](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.6_infall.ipynb)
+
 If you have any questions, please do not hesitate to contact me!
 
-_Note: This repository will be updated continuously with more material until the summer school. You are of course free to check it out in advance. But this will not be required to be able to follow the workshop as long as the installation and testing have worked successfully._
+**Note:** Since the creation of this repository several things have been updated. Make sure to have the latest version of the repository downloaded by executing  
+`git pull`  
+in your repository directory.
+
+Also make sure that you have the latest version of the needed software installed by running  
+`pip install simframe --updrade`  
+`pip install dustpy --updrade`  
+`pip install dustpylib --updrade`  
