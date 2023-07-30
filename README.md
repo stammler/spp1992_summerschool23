@@ -29,7 +29,7 @@ The workshop will consist of short tutorials of the mentioned codes and then ple
 * [DustPy – Advanced](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.3_dustpy_advanced.ipynb)
 * [DustPyLib](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/2_tutorials/2.4_dustpylib.ipynb)
 
-The project notebook can be viewed here:
+The project notebooks can be viewed here:
 
 1. [Spectral Index](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.1_spectral_index.ipynb)
 2. [FU Orionis Outbursts](https://github.com/stammler/spp1992_summerschool23/blob/main/notebooks/3_projects/3.2_fu_orionis.ipynb)
