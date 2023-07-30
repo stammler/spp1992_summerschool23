@@ -45,6 +45,6 @@ If you have any questions, please do not hesitate to contact me!
 in your repository directory.
 
 Also make sure that you have the latest version of the needed software installed by running  
-`pip install simframe --updrade`  
-`pip install dustpy --updrade`  
-`pip install dustpylib --updrade`  
+`pip install simframe --upgrade`  
+`pip install dustpy --upgrade`  
+`pip install dustpylib --upgrade`  
